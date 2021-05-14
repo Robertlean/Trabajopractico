@@ -1,1 +1,1 @@
-console.log("Hola, estamos en la comisión 6")
+console.log("Hola, estamos en la comisión 6 viendo GITHUB!")
